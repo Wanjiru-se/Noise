@@ -1,1 +1,1 @@
-Noise repository for SFE4015
+Noise repository for SFE4015 class
