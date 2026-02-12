@@ -1,1 +1,1 @@
-Noise repository for SFE4015 evening class
+Noise repository for SFE4015 evening Tuesday class
